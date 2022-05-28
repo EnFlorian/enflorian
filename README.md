@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, its me Florian 👋
+![](assets/header-image.png)
+
 
 <!--
 **EnFlorian/enflorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
