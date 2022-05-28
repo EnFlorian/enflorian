@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hey there, its me Florian! 👋
 ![](assets/header-image.png)
 
 
@@ -7,7 +7,7 @@
 - 📖 I am studying computer science 
 - 💻 I use daily .js, .ts, .py, .css
 - 🚀 I'm passionate about web technologies and web-based data visualizations 
-- ⚡ I am currently working on a web-based app for curating image datasets
+- ⚡ I am currently working on a web-based pos-tagging App
 
 ## 🚧 My latest Projects
 - [📓 Markdown Editor]()
