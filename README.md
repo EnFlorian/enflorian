@@ -1,4 +1,4 @@
-# Hey there, its me Florian! 👋
+# Hey there, I'm Florian! 👋
 ![](assets/header-image.png)
 
 
