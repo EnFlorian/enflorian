@@ -8,14 +8,14 @@
 - 💻 I use daily .js, .ts, .py, .css
 - 🚀 I'm passionate about web technologies and data visualizations 
 - ⚡ I am currently working on a web-based pos-tagging App
-- 👨🏼‍🎓 I'm currently learning Nest.js
+- 👨🏼‍🎓 I'm currently learning react dnd
 
 
 <!---
 ## 🚧 My latest Projects
-- [📓 Markdown Editor]()
-- [🧮 Invoice Management System]()
+- [📓 Kanbii - Lightweight Kanban Board]()
+- [🧮 VuBlog - Personal Blog with CMS]()
 - [💻 Personal Website]()
-- [🗺️ Country Explorer]()
+- [🗺️ Markdo - Markdown Editor]()
 
 ---!>
