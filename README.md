@@ -11,6 +11,12 @@
 - 👨🏼‍🎓 I'm currently learning Eeact DnD and Next.js
 
 
+
+
+## 📊 My Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnFlorian)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 ## 🚧 My latest Projects
 - [📓 Kanbii - Lightweight Kanban Board]()
