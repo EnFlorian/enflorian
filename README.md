@@ -8,13 +8,9 @@
 - 💻 I use daily .js, .ts, .py, .css
 - 🚀 I'm passionate about web technologies and data visualizations 
 - ⚡ I am currently working on a web-based pos-tagging App
-- 👨🏼‍🎓 I'm currently learning Eeact DnD and Next.js
+- 👨🏼‍🎓 I'm currently learning Angular and Nest.js
 
 
-
-
-## 📊 My Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnFlorian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
