@@ -7,7 +7,7 @@
 - 📖 I am studying computer science 
 - 🚀 I'm passionate about web technologies and data visualizations 
 - ⚡ I am currently working on a web-based pos-tagging App
-- 👨🏼‍🎓 I'm currently Angular
+- 👨🏼‍🎓 I'm currently learning Angular
 
 ## 💻 Technologies I use daily:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
