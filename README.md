@@ -23,12 +23,13 @@
 
 
 
-
 <!---
 ## 🚧 My latest Projects
-- [📓 Kanbii - Lightweight Kanban Board]()
-- [🧮 VuBlog - Personal Blog with CMS]()
+- [🐶 VetMed - Animal Clinic]()
+- [🌷 Florana - Florist]()
+- [🧮 VuBlog - Personal Blog]()
+- [🖼 Artvu - ArtGallery]()
 - [💻 Personal Website]()
-- [🗺️ Markdo - Markdown Editor]()
-
----!>
+- [🐱 VetPet - Veterinarian]()
+- [🗺️ Marki - Markdown Editor]()
+--->
