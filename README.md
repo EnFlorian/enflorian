@@ -25,12 +25,14 @@
 
 
 <!---
-## 🚧 My latest Projects
+## 📦 My latest Projects
 - [🐶 VetMed - Animal Clinic]()
+- [🎨 Kenii - Visit Card]()
 - [🌷 Florana - Florist]()
 - [🧮 VuBlog - Personal Blog]()
 - [🖼 Artvu - ArtGallery]()
 - [💻 Personal Website]()
 - [🐱 VetPet - Veterinarian]()
 - [🗺️ Marki - Markdown Editor]()
+- [🔢 ML - From Scratch]()
 --->
