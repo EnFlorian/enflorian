@@ -27,12 +27,12 @@
 <!---
 ## 📦 My latest Projects
 - [🐶 VetMed - Animal Clinic]()
-- [🎨 Kenii - Visit Card]()
+- [🎨 Kenii - Visit Card](https://github.com/EnFlorian/kenii-landing-page)
 - [🌷 Florana - Florist]()
-- [🧮 VuBlog - Personal Blog]()
-- [🖼 Artvu - ArtGallery]()
-- [💻 Personal Website]()
-- [🐱 VetPet - Veterinarian]()
-- [🗺️ Marki - Markdown Editor]()
-- [🔢 ML - From Scratch]()
+- [🧮 VuBlog - Personal Blog](https://github.com/EnFlorian/vublog)
+- [🖼 Artvu - ArtGallery](https://github.com/EnFlorian/artvu-ecom)
+- [💻 Personal Website](https://github.com/EnFlorian/personal-website)
+- [🐱 VetPet - Veterinarian](https://github.com/EnFlorian/vetpet)
+- [🗺️ Marki - Markdown Editor](https://github.com/EnFlorian/markii-markdown-editor)
+- [🔢 ML - From Scratch](https://github.com/EnFlorian/ML-Projects)
 --->
