@@ -25,7 +25,7 @@
 
 
 ## 📦 My latest Projects
-- [🐶 VetMed - Animal Clinic](https://github.com/EnFlorian/vetpet)
+- [🐶 VetMed - Animal Clinic](https://github.com/EnFlorian/vetmed)
 - [🎨 Kenii - Landing Page](https://github.com/EnFlorian/kenii-landing-page)
 - [🌷 Florana - Florist](https://github.com/EnFlorian/florana)
 - [🧮 VuBlog - Personal Blog](https://github.com/EnFlorian/vublog)
