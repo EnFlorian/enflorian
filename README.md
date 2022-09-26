@@ -26,7 +26,7 @@
 
 
 ## 📦 My latest Projects
-- [📙 Mini-Blog](https://github.com/EnFlorian/mini-blog)
+- [📙 Mini-Blog - Personal Blog](https://github.com/EnFlorian/mini-blog)
 - [🐶 VetMed - Animal Clinic](https://github.com/EnFlorian/vetmed)
 - [🎨 Kenii - Landing Page](https://github.com/EnFlorian/kenii-landing-page)
 - [🌷 Florana - Florist](https://github.com/EnFlorian/florana)
