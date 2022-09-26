@@ -21,10 +21,12 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
 
 ## 📦 My latest Projects
+- [📙 Mini-Blog (https://github.com/EnFlorian/mini-blog)
 - [🐶 VetMed - Animal Clinic](https://github.com/EnFlorian/vetmed)
 - [🎨 Kenii - Landing Page](https://github.com/EnFlorian/kenii-landing-page)
 - [🌷 Florana - Florist](https://github.com/EnFlorian/florana)
