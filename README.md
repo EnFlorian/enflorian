@@ -31,7 +31,7 @@
 - [🎨 Kenii - Landing Page](https://github.com/EnFlorian/kenii-landing-page)
 - [🌷 Florana - Florist](https://github.com/EnFlorian/florana)
 - [🧮 VuBlog - Personal Blog](https://github.com/EnFlorian/vublog)
-- [🖼 Artvu - ArtGallery](https://github.com/EnFlorian/artvu-ecom)
+- [🖼 Artvu - Art Gallery](https://github.com/EnFlorian/artvu-ecom)
 - [💻 Personal Website](https://github.com/EnFlorian/personal-website)
 - [🐱 VetPet - Veterinarian](https://github.com/EnFlorian/vetpet)
 - [🗺️ Marki - Markdown Editor](https://github.com/EnFlorian/markii-markdown-editor)
