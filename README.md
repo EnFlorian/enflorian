@@ -26,6 +26,7 @@
 
 
 ## 📦 My latest Projects
+- [🥥 Anja - Personal Website](https://github.com/EnFlorian/anja-personal-website)
 - [📙 Mini-Blog - Personal Blog](https://github.com/EnFlorian/mini-blog)
 - [🐶 VetMed - Animal Clinic](https://github.com/EnFlorian/vetmed)
 - [🎨 Kenii - Landing Page](https://github.com/EnFlorian/kenii-landing-page)
