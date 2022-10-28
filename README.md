@@ -24,7 +24,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-
+<!--
 ## 📦 My latest Projects
 - [🥥 Anja - Personal Website](https://github.com/EnFlorian/anja-personal-website)
 - [📙 Mini-Blog - Personal Blog](https://github.com/EnFlorian/mini-blog)
@@ -37,3 +37,4 @@
 - [🐱 VetPet - Veterinarian](https://github.com/EnFlorian/vetpet)
 - [🗺️ Marki - Markdown Editor](https://github.com/EnFlorian/markii-markdown-editor)
 - [🔢 ML - From Scratch](https://github.com/EnFlorian/ML-Projects)
+-->
