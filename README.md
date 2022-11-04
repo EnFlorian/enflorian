@@ -7,7 +7,7 @@
 - 📖 I am studying computer science 
 - 🚀 I'm passionate about web technologies and data visualizations 
 - ⚡ I am currently working on a web-based pos-tagging App
-- 👨🏼‍🎓 I'm currently learning spring
+- 👨🏼‍🎓 I'm currently learning java spring
 
 
 
