@@ -4,10 +4,7 @@
 
 ## 🤠 About Me:
 - 🏦 I am a software developer based in Linz, Austria
-- 🚀 I'm passionate about web technologies and nlp 
-- ⚡ I am currently working on a web-based pos-tagging App
-- 👨🏼‍🎓 I'm currently learning java spring
-
+- 🚀 I'm passionate about web technologies and data visualization 
 
 
 ## 💻 Technologies I use daily:
