@@ -19,18 +19,3 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 [.](https://www.notion.so/enflo/Shared-81dc7b4f197a4dc5b1822481bca4714d)
-
-<!--
-## 📦 My latest Projects
-- [🥥 Anja - Personal Website](https://github.com/EnFlorian/anja-personal-website)
-- [📙 Mini-Blog - Personal Blog](https://github.com/EnFlorian/mini-blog)
-- [🐶 VetMed - Animal Clinic](https://github.com/EnFlorian/vetmed)
-- [🎨 Kenii - Landing Page](https://github.com/EnFlorian/kenii-landing-page)
-- [🌷 Florana - Florist](https://github.com/EnFlorian/florana)
-- [🧮 VuBlog - Personal Blog](https://github.com/EnFlorian/vublog)
-- [🖼 Artvu - Art Gallery](https://github.com/EnFlorian/artvu-ecom)
-- [💻 Personal Website](https://github.com/EnFlorian/personal-website)
-- [🐱 VetPet - Veterinarian](https://github.com/EnFlorian/vetpet)
-- [🗺️ Marki - Markdown Editor](https://github.com/EnFlorian/markii-markdown-editor)
-- [🔢 ML - From Scratch](https://github.com/EnFlorian/ML-Projects)
--->
